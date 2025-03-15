@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package net.lawliet.examplemod;
 
 import java.util.List;
 import java.util.Set;
